@@ -6,7 +6,7 @@ const Hero = () => {
             <div className="flex justify-center items-center h-full">
 
                 {/* text container */}
-                <div className="textContainer bg-red-300 w-[60%]">
+                <div className="textContainer bg-red-800 w-[60%]">
                     t
                 </div>
                 {/* text container */}
