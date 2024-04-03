@@ -11,3 +11,8 @@ body {
 .heroSection {
     height: calc(100vh - 100px);
 }
+
+.type button {
+    padding: 16px 36px;
+    
+}
