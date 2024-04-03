@@ -7,30 +7,29 @@ const SearchBar = () => {
 
     const handleSubmit = (e) => {
         e.preventDefault();
-
         console.log("Form submitted");
     };
 
 
     return (
-        <div className="my-5 b">
+        <div className="my-8 ">
 
             <div className="type">
                 {
                     btnType.map((btn, indx) => (
-                        <button key={indx} onClick={() => setType(btn)} className={`${btn === type ? 'bg-black text-white ' : "border border-gray-300 "}`}>{btn}</button>
+                        <button key={indx} onClick={() => setType(btn)} className={`${btn === type ? 'bg-black text-white border border-gray-300 ' : "border border-gray-300 "}`}>{btn}</button>
                     ))
                 }
             </div>
 
-            <form onSubmit={handleSubmit} className="grid grid-cols-4 gap-1 mt-2">
+            <form onSubmit={handleSubmit} className="grid grid-cols-4  ">
                 <div className="col-span-4 sm:col-span-1">
                     <input
                         id="location"
                         type="text"
                         name="location"
                         placeholder="City Location"
-                        className="w-full border border-gray-300 rounded px-3 py-2"
+                        className="w-full border border-r-0 border-gray-300 outline-none rounded px-3 py-2"
                     />
                 </div>
                 <div className="col-span-2 sm:col-span-1">
@@ -41,7 +40,7 @@ const SearchBar = () => {
                         placeholder="Min Price"
                         min={0}
                         max={100000}
-                        className="w-full border border-gray-300 rounded px-3 py-2"
+                        className="w-full border border-l-0 border-r-0 border-gray-300 outline-none rounded px-3 py-2"
                     />
                 </div>
                 <div className="col-span-2 sm:col-span-1">
@@ -52,7 +51,7 @@ const SearchBar = () => {
                         placeholder="Max Price"
                         min={0}
                         max={100000}
-                        className="w-full border border-gray-300 rounded px-3 py-2"
+                        className="w-full border border-l-0 outline-none border-gray-300 rounded px-3 py-2"
                     />
                 </div>
                 <div className="col-span-4 sm:col-span-1 flex items-center justify-center">
