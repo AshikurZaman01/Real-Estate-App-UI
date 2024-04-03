@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { IoSearchOutline } from "react-icons/io5";
-const SearchBar = () => {
 
+const SearchBar = () => {
     const btnType = ["Buy", "Rent"];
     const [type, setType] = useState("Buy");
 
@@ -10,29 +10,31 @@ const SearchBar = () => {
         console.log("Form submitted");
     };
 
-
     return (
-        <div className="my-8 ">
-
-            <div className="type">
-                {
-                    btnType.map((btn, indx) => (
-                        <button key={indx} onClick={() => setType(btn)} className={`${btn === type ? 'bg-black text-white border border-gray-300 ' : "border border-gray-300 "}`}>{btn}</button>
-                    ))
-                }
+        <div className="my-8 sm:px-4 md:px-8 lg:px-12 xl:px-16">
+            <div className="flex flex-wrap items-center justify-center sm:justify-start">
+                {btnType.map((btn, indx) => (
+                    <button
+                        key={indx}
+                        onClick={() => setType(btn)}
+                        className={`btn ${btn === type ? "bg-black text-white hover:text-blue-600" : "text-black border border-gray-300"} mr-2 mb-2 sm:mb-0`}
+                    >
+                        {btn}
+                    </button>
+                ))}
             </div>
 
-            <form onSubmit={handleSubmit} className="grid grid-cols-4  ">
-                <div className="col-span-4 sm:col-span-1">
+            <form onSubmit={handleSubmit} className="grid grid-cols-1 sm:grid-cols-4 gap-4 mt-4">
+                <div className="col-span-1 sm:col-span-2">
                     <input
                         id="location"
                         type="text"
                         name="location"
                         placeholder="City Location"
-                        className="w-full border border-r-0 border-gray-300 outline-none rounded px-3 py-2"
+                        className="w-full border border-gray-300 outline-none rounded px-3 py-2"
                     />
                 </div>
-                <div className="col-span-2 sm:col-span-1">
+                <div className="col-span-1 sm:col-span-1">
                     <input
                         id="minPrice"
                         type="number"
@@ -40,10 +42,10 @@ const SearchBar = () => {
                         placeholder="Min Price"
                         min={0}
                         max={100000}
-                        className="w-full border border-l-0 border-r-0 border-gray-300 outline-none rounded px-3 py-2"
+                        className="w-full border border-gray-300 outline-none rounded px-3 py-2"
                     />
                 </div>
-                <div className="col-span-2 sm:col-span-1">
+                <div className="col-span-1 sm:col-span-1">
                     <input
                         id="maxPrice"
                         type="number"
@@ -51,20 +53,19 @@ const SearchBar = () => {
                         placeholder="Max Price"
                         min={0}
                         max={100000}
-                        className="w-full border border-l-0 outline-none border-gray-300 rounded px-3 py-2"
+                        className="w-full border border-gray-300 outline-none rounded px-3 py-2"
                     />
                 </div>
-                <div className="col-span-4 sm:col-span-1 flex items-center justify-center">
+                <div className="col-span-1 sm:col-span-1 flex items-center justify-center">
                     <button
                         type="submit"
-                        className="btn btn-md bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
+                        className="btn btn-md bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded w-full"
                     >
                         <IoSearchOutline className="inline-block mr-2" />
                         Search
                     </button>
                 </div>
             </form>
-
         </div>
     );
 };
