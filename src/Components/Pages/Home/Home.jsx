@@ -1,8 +1,9 @@
+import Hero from "../Navbar/Hero";
 
 const Home = () => {
     return (
         <div>
-            this is home
+            <Hero></Hero>
         </div>
     );
 };

@@ -18,7 +18,7 @@ const Navbar = () => {
                     <div>
                         <Link to={'/'} className="flex items-center justify-center gap-3 text-xl font-semibold hover:scale-[1.05] transition-all duration-300">
                             <img className="w-[40px] h-[40px]" src={logo} alt="" />
-                            <span>HomeState</span>
+                            <span>RealState</span>
                         </Link>
                     </div>
 
