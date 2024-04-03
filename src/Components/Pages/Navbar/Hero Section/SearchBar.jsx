@@ -5,6 +5,7 @@ const SearchBar = () => {
     const btnType = ["Buy", "Rent"];
     const [type, setType] = useState("Buy");
 
+
     const handleSubmit = (e) => {
         e.preventDefault();
         console.log("Form submitted");

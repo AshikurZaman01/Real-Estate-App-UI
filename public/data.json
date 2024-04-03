@@ -1,0 +1,302 @@
+[
+    {
+        "title": "Modern Downtown Apartment",
+        "description": "Beautifully designed apartment in the heart of downtown. Enjoy modern amenities and stunning city views.",
+        "price": "$1,200,000",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "area": "1,500 sqft",
+        "location": "Downtown, City",
+        "amenities": [
+            "Gym",
+            "Swimming Pool",
+            "Concierge"
+        ],
+        "image": "https://images.unsplash.com/photo-1632586864055-c2fdbc92e72c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fE1vZGVybiUyMERvd250b3duJTIwQXBhcnRtZW50fGVufDB8fDB8fHww"
+    },
+    {
+        "title": "Luxury Beachfront Villa",
+        "description": "Exquisite beachfront villa with private beach access. Perfect for those seeking tranquility and luxury.",
+        "price": "$2,500,000",
+        "bedrooms": 4,
+        "bathrooms": 4,
+        "area": "3,200 sqft",
+        "location": "Beachfront, Coastal Town",
+        "amenities": [
+            "Private Beach Access",
+            "Infinity Pool",
+            "Garden"
+        ],
+        "image": "https://plus.unsplash.com/premium_photo-1682377521564-b180edfc960c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fEx1eHVyeSUyMEJlYWNoZnJvbnQlMjBWaWxsYXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "title": "Cozy Suburban Home",
+        "description": "Charming home in a quiet suburban neighborhood. Ideal for families looking for a peaceful retreat.",
+        "price": "$500,000",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "area": "1,800 sqft",
+        "location": "Suburbs, Green Valley",
+        "amenities": [
+            "Backyard",
+            "Fireplace",
+            "Garage"
+        ],
+        "image": "https://plus.unsplash.com/premium_photo-1661950439212-558fa5cc82e0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Q296eSUyMFN1YnVyYmFuJTIwSG9tZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "title": "Elegant City Penthouse",
+        "description": "Stunning penthouse with panoramic city views. Modern design and high-end finishes throughout.",
+        "price": "$3,000,000",
+        "bedrooms": 5,
+        "bathrooms": 5,
+        "area": "4,500 sqft",
+        "location": "City Center, Metropolis",
+        "amenities": [
+            "Rooftop Terrace",
+            "Home Theater",
+            "Smart Home System"
+        ],
+        "image": "https://plus.unsplash.com/premium_photo-1681338224373-9669c2497c05?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8RWxlZ2FudCUyMENpdHklMjBQZW50aG91c2V8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "title": "Historic Countryside Estate",
+        "description": "Grand estate with rich history and sprawling grounds. Perfect for those who appreciate timeless elegance.",
+        "price": "$4,800,000",
+        "bedrooms": 7,
+        "bathrooms": 6,
+        "area": "10,000 sqft",
+        "location": "Countryside, Rolling Hills",
+        "amenities": [
+            "Guest House",
+            "Tennis Court",
+            "Wine Cellar"
+        ],
+        "image": "https://images.unsplash.com/photo-1700480556000-b3bfa81728f0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8SGlzdG9yaWMlMjBDb3VudHJ5c2lkZSUyMEVzdGF0ZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "title": "Contemporary Loft Living",
+        "description": "Chic loft space with industrial design elements. Ideal for urban dwellers with a taste for modern style.",
+        "price": "$800,000",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "area": "1,200 sqft",
+        "location": "Art District, Urban Center",
+        "amenities": [
+            "Exposed Brick",
+            "High Ceilings",
+            "Fitness Center"
+        ],
+        "image": "https://images.unsplash.com/photo-1623625433656-76f7e1450acb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Q29udGVtcG9yYXJ5JTIwTG9mdCUyMExpdmluZ3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "title": "Mountain View Retreat",
+        "description": "Escape to this peaceful retreat nestled in the mountains. Enjoy breathtaking views and serene surroundings.",
+        "price": "$1,700,000",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "area": "2,800 sqft",
+        "location": "Mountain Valley, Pine Ridge",
+        "amenities": [
+            "Deck with Views",
+            "Hiking Trails Access",
+            "Hot Tub"
+        ],
+        "image": "https://images.unsplash.com/photo-1678380869679-f3a7896a6668?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8TW91bnRhaW4lMjBWaWV3JTIwUmV0cmVhdHxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "title": "Lakefront Cabin",
+        "description": "Quaint cabin on the shores of a pristine lake. Perfect for weekend getaways and nature lovers.",
+        "price": "$350,000",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "area": "900 sqft",
+        "location": "Lakefront, Tranquil Waters",
+        "amenities": [
+            "Dock",
+            "Fire Pit",
+            "Boat Slip"
+        ],
+        "image": "https://plus.unsplash.com/premium_photo-1663091687045-d108c7fb83e4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fExha2Vmcm9udCUyMENhYmlufGVufDB8fDB8fHww"
+    },
+    {
+        "title": "Family-Friendly Suburban House",
+        "description": "Spacious family home in a friendly neighborhood. Close to schools and parks, ideal for growing families.",
+        "price": "$600,000",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "area": "2,200 sqft",
+        "location": "Suburbs, Oak Meadows",
+        "amenities": [
+            "Large Yard",
+            "Playroom",
+            "Two-Car Garage"
+        ],
+        "image": "https://plus.unsplash.com/premium_photo-1681884426120-8cb29ee5877c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fEZhbWlseSUyMEZyaWVuZGx5JTIwU3VidXJiYW4lMjBIb3VzZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "title": "Sleek Urban Studio",
+        "description": "Stylish studio apartment in the heart of the city. Perfect for professionals and young urbanites.",
+        "price": "$300,000",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "area": "600 sqft",
+        "location": "City Center, Metro District",
+        "amenities": [
+            "Modern Kitchen",
+            "Balcony",
+            "Fitness Center"
+        ],
+        "image": "https://plus.unsplash.com/premium_photo-1682125919133-484f50cfa51d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8U2xlZWslMjBVcmJhbiUyMFN0dWRpb3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "title": "Rustic Farmhouse Retreat",
+        "description": "Charming farmhouse surrounded by rolling fields. Ideal for those seeking a peaceful rural lifestyle.",
+        "price": "$750,000",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "area": "2,000 sqft",
+        "location": "Rural Countryside, Oakwood Farms",
+        "amenities": [
+            "Wraparound Porch",
+            "Barn",
+            "Garden"
+        ],
+        "image": "https://plus.unsplash.com/premium_photo-1691457564967-aed17baac04a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8UnVzdGljJTIwRmFybWhvdXNlJTIwUmV0cmVhdHxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "title": "Luxury City Condo",
+        "description": "Elegant condo with panoramic city views. Located in a prestigious building with top-notch amenities.",
+        "price": "$1,800,000",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "area": "2,500 sqft",
+        "location": "City Center, Skyline Tower",
+        "amenities": [
+            "24/7 Concierge",
+            "Pool",
+            "Gym"
+        ],
+        "image": "https://plus.unsplash.com/premium_photo-1661963657305-f52dcaeef418?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8THV4dXJ5JTIwQ2l0eSUyMENvbmRvfGVufDB8fDB8fHww"
+    },
+    {
+        "title": "Seaside Retreat",
+        "description": "Relaxing seaside retreat with direct beach access. Enjoy ocean breezes and stunning sunsets.",
+        "price": "$1,400,000",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "area": "2,200 sqft",
+        "location": "Seaside, Coastal Paradise",
+        "amenities": [
+            "Beach Access",
+            "Outdoor Shower",
+            "Deck"
+        ],
+        "image": "https://images.unsplash.com/photo-1621290719877-4c7f04087b63?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fFNlYXNpZGUlMjBSZXRyZWF0fGVufDB8fDB8fHww"
+    },
+    {
+        "title": "Modern City Townhouse",
+        "description": "Sleek and modern townhouse in a vibrant city neighborhood. Perfect for those who love city living.",
+        "price": "$900,000",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "area": "1,800 sqft",
+        "location": "City Neighborhood, Arts District",
+        "amenities": [
+            "Garage",
+            "Roof Deck",
+            "Open Concept Living"
+        ],
+        "image": "https://plus.unsplash.com/premium_photo-1679916743672-ae9e2465088e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TW9kZXJuJTIwQ2l0eSUyMFRvd25ob3VzZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "title": "Coastal Cottage",
+        "description": "Charming coastal cottage with views of the ocean. Steps away from the beach and coastal trails.",
+        "price": "$550,000",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "area": "1,200 sqft",
+        "location": "Coastal Village, Ocean Breeze",
+        "amenities": [
+            "Ocean Views",
+            "Front Porch",
+            "Community Pool"
+        ],
+        "image": "https://plus.unsplash.com/premium_photo-1697729545665-368a046bbbd8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Q29hc3RhbCUyMENvdHRhZ2V8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "title": "City Chic Apartment",
+        "description": "Stylish apartment in a bustling city neighborhood. Walkable to cafes, shops, and nightlife.",
+        "price": "$400,000",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "area": "800 sqft",
+        "location": "City District, Trendy Area",
+        "amenities": [
+            "Balcony",
+            "Fitness Center",
+            "Pet Friendly"
+        ],
+        "image": "https://images.unsplash.com/photo-1605283176568-9b41fde3672e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2l0eSUyMENoaWMlMjBBcGFydG1lbnR8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "title": "Mountain Cabin Retreat",
+        "description": "Cozy cabin nestled in the mountains. Perfect for ski weekends and enjoying the great outdoors.",
+        "price": "$250,000",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "area": "1,000 sqft",
+        "location": "Mountain Range, Ski Town",
+        "amenities": [
+            "Fireplace",
+            "Deck",
+            "Ski Storage"
+        ],
+        "image": "https://plus.unsplash.com/premium_photo-1694475416476-d7f765fa9ff6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TW91bnRhaW4lMjBDYWJpbiUyMFJldHJlYXR8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "title": "Urban Oasis Loft",
+        "description": "Urban loft with a lush private garden oasis. A serene escape in the midst of the city.",
+        "price": "$700,000",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "area": "1,500 sqft",
+        "location": "City Center, Garden District",
+        "amenities": [
+            "Private Garden",
+            "High Ceilings",
+            "Modern Kitchen"
+        ],
+        "image": "https://plus.unsplash.com/premium_photo-1697730133511-31d978a0e8a0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8VXJiYW4lMjBPYXNpcyUyMExvZnR8ZW58MHx8MHx8fDA%3Dg"
+    },
+    {
+        "title": "Lakeview Home",
+        "description": "Lovely home with stunning views of the lake. Enjoy peaceful evenings watching the sunset.",
+        "price": "$650,000",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "area": "1,800 sqft",
+        "location": "Lakeview, Serenity Estates",
+        "amenities": [
+            "Lake Views",
+            "Deck",
+            "Spacious Yard"
+        ],
+        "image": "https://plus.unsplash.com/premium_photo-1680300960892-bd11b59b469b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8TGFrZXZpZXclMjBIb21lfGVufDB8fDB8fHww"
+    },
+    {
+        "title": "Historic Downtown Loft",
+        "description": "Historic loft with exposed brick and original features. Located in the heart of the historic district.",
+        "price": "$950,000",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "area": "2,000 sqft",
+        "location": "Downtown, Historic District",
+        "amenities": [
+            "Exposed Brick",
+            "Historic Charm",
+            "Walkable Location"
+        ],
+        "image": "https://images.unsplash.com/photo-1594872653896-21c0b452d605?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8SGlzdG9yaWMlMjBEb3dudG93biUyMExvZnR8ZW58MHx8MHx8fDA%3D"
+    }
+]
