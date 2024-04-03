@@ -1,4 +1,4 @@
-import Hero from "../Navbar/Hero";
+import Hero from "../Navbar/Hero Section/Hero";
 
 const Home = () => {
     return (
