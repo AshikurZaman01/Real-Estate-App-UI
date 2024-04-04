@@ -6,6 +6,7 @@ const ListPage = () => {
         <div className="my-5 bg-red-300">
 
             <div className="flex items-start h-[100vh]">
+
                 {/* list container */}
                 <div className="listContainer  w-[60%]">
                     <ListContainer></ListContainer>
@@ -17,6 +18,7 @@ const ListPage = () => {
                     <MapContainer></MapContainer>
                 </div>
                 {/* map container */}
+
             </div>
 
         </div>

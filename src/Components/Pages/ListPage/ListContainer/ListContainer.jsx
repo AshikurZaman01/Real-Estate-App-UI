@@ -1,8 +1,31 @@
+import { useState } from "react";
+import Filter from "./Filter/Filter";
+import listContainer from "./ListContainer.scss";
+import { useEffect } from "react";
+import Card from "../../Card/Card";
 
 const ListContainer = () => {
+
+    const [data, setData] = useState([]);
+    useEffect(() => {
+        fetch('../../../../../public/data.json')
+            .then(res => res.json())
+            .then(data => setData(data))
+    }, [])
+
     return (
         <div>
-List
+            <div className="wrapper">
+
+                <Filter></Filter>
+
+                <div>
+                    {
+                        data.map((item, indx) => <Card key={indx} item={item}></Card>)
+                    }
+                </div>
+
+            </div>
         </div>
     );
 };
