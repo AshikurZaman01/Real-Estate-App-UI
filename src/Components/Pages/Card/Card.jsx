@@ -32,9 +32,9 @@ const Card = ({ item }) => {
                         <span>{location}</span>
                     </p>
 
-                    <p className="price flex items-center gap-2 text-xl">
+                    <p className="price flex items-center gap-2 text-xl ">
                         <LuBadgeDollarSign className="text-gray-500" />
-                        <span>{price}</span>
+                        <span className="bg-yellow-200 px-1 rounded">{price}</span>
                     </p>
 
                     <div className="bottom flex justify-between items-center">
