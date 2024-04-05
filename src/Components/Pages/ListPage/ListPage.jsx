@@ -3,7 +3,7 @@ import MapContainer from "./MapContainer/MapContainer";
 
 const ListPage = () => {
     return (
-        <div className="my-5 bg-red-300">
+        <div className="my-5">
 
             <div className="flex items-start h-[100vh]">
 
@@ -14,7 +14,7 @@ const ListPage = () => {
                 {/* list container */}
 
                 {/* map container */}
-                <div className="mapContainer  w-[40%] bg-blue-500">
+                <div className="mapContainer  w-[40%]">
                     <MapContainer></MapContainer>
                 </div>
                 {/* map container */}
