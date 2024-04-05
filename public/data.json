@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "title": "Modern Downtown Apartment",
         "description": "Beautifully designed apartment in the heart of downtown. Enjoy modern amenities and stunning city views.",
         "price": "$1,200,000",
@@ -14,9 +15,10 @@
             "Swimming Pool",
             "Concierge"
         ],
-        "image": "https://images.unsplash.com/photo-1632586864055-c2fdbc92e72c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fE1vZGVybiUyMERvd250b3duJTIwQXBhcnRtZW50fGVufDB8fDB8fHww"
+        "image": "https://plus.unsplash.com/premium_photo-1684175656320-5c3f701c082c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGFwYXJ0bWVudHxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
+        "id": 2,
         "title": "Luxury Beachfront Villa",
         "description": "Exquisite beachfront villa with private beach access. Perfect for those seeking tranquility and luxury.",
         "price": "$2,500,000",
@@ -34,6 +36,7 @@
         "image": "https://plus.unsplash.com/premium_photo-1682377521564-b180edfc960c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fEx1eHVyeSUyMEJlYWNoZnJvbnQlMjBWaWxsYXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
+        "id": 3,
         "title": "Cozy Suburban Home",
         "description": "Charming home in a quiet suburban neighborhood. Ideal for families looking for a peaceful retreat.",
         "price": "$500,000",
@@ -51,6 +54,7 @@
         "image": "https://plus.unsplash.com/premium_photo-1661950439212-558fa5cc82e0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Q296eSUyMFN1YnVyYmFuJTIwSG9tZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
+        "id": 4,
         "title": "Elegant City Penthouse",
         "description": "Stunning penthouse with panoramic city views. Modern design and high-end finishes throughout.",
         "price": "$3,000,000",
@@ -68,6 +72,7 @@
         "image": "https://plus.unsplash.com/premium_photo-1681338224373-9669c2497c05?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8RWxlZ2FudCUyMENpdHklMjBQZW50aG91c2V8ZW58MHx8MHx8fDA%3D"
     },
     {
+        "id": 5,
         "title": "Historic Countryside Estate",
         "description": "Grand estate with rich history and sprawling grounds. Perfect for those who appreciate timeless elegance.",
         "price": "$4,800,000",
@@ -82,9 +87,10 @@
             "Tennis Court",
             "Wine Cellar"
         ],
-        "image": "https://images.unsplash.com/photo-1700480556000-b3bfa81728f0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8SGlzdG9yaWMlMjBDb3VudHJ5c2lkZSUyMEVzdGF0ZXxlbnwwfHwwfHx8MA%3D%3D"
+        "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fGFwYXJ0bWVudHxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
+        "id": 6,
         "title": "Contemporary Loft Living",
         "description": "Chic loft space with industrial design elements. Ideal for urban dwellers with a taste for modern style.",
         "price": "$800,000",
@@ -102,6 +108,7 @@
         "image": "https://images.unsplash.com/photo-1623625433656-76f7e1450acb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Q29udGVtcG9yYXJ5JTIwTG9mdCUyMExpdmluZ3xlbnwwfHwwfHx8MA%3D%3D"
     },
     {
+        "id": 7,
         "title": "Mountain View Retreat",
         "description": "Escape to this peaceful retreat nestled in the mountains. Enjoy breathtaking views and serene surroundings.",
         "price": "$1,700,000",
@@ -116,9 +123,10 @@
             "Hiking Trails Access",
             "Hot Tub"
         ],
-        "image": "https://images.unsplash.com/photo-1678380869679-f3a7896a6668?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8TW91bnRhaW4lMjBWaWV3JTIwUmV0cmVhdHxlbnwwfHwwfHx8MA%3D%3D"
+        "image": "https://images.unsplash.com/photo-1612320648993-61c1cd604b71?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fGFwYXJ0bWVudHxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
+        "id": 8,
         "title": "Lakefront Cabin",
         "description": "Quaint cabin on the shores of a pristine lake. Perfect for weekend getaways and nature lovers.",
         "price": "$350,000",
@@ -136,6 +144,7 @@
         "image": "https://plus.unsplash.com/premium_photo-1663091687045-d108c7fb83e4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fExha2Vmcm9udCUyMENhYmlufGVufDB8fDB8fHww"
     },
     {
+        "id": 9,
         "title": "Family-Friendly Suburban House",
         "description": "Spacious family home in a friendly neighborhood. Close to schools and parks, ideal for growing families.",
         "price": "$600,000",
@@ -153,6 +162,7 @@
         "image": "https://plus.unsplash.com/premium_photo-1681884426120-8cb29ee5877c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fEZhbWlseSUyMEZyaWVuZGx5JTIwU3VidXJiYW4lMjBIb3VzZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
+        "id": 10,
         "title": "Sleek Urban Studio",
         "description": "Stylish studio apartment in the heart of the city. Perfect for professionals and young urbanites.",
         "price": "$300,000",
@@ -170,6 +180,7 @@
         "image": "https://plus.unsplash.com/premium_photo-1682125919133-484f50cfa51d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8U2xlZWslMjBVcmJhbiUyMFN0dWRpb3xlbnwwfHwwfHx8MA%3D%3D"
     },
     {
+        "id": 11,
         "title": "Rustic Farmhouse Retreat",
         "description": "Charming farmhouse surrounded by rolling fields. Ideal for those seeking a peaceful rural lifestyle.",
         "price": "$750,000",
@@ -187,6 +198,7 @@
         "image": "https://plus.unsplash.com/premium_photo-1691457564967-aed17baac04a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8UnVzdGljJTIwRmFybWhvdXNlJTIwUmV0cmVhdHxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
+        "id": 12,
         "title": "Luxury City Condo",
         "description": "Elegant condo with panoramic city views. Located in a prestigious building with top-notch amenities.",
         "price": "$1,800,000",
@@ -204,6 +216,7 @@
         "image": "https://plus.unsplash.com/premium_photo-1661963657305-f52dcaeef418?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8THV4dXJ5JTIwQ2l0eSUyMENvbmRvfGVufDB8fDB8fHww"
     },
     {
+        "id": 13,
         "title": "Seaside Retreat",
         "description": "Relaxing seaside retreat with direct beach access. Enjoy ocean breezes and stunning sunsets.",
         "price": "$1,400,000",
@@ -218,9 +231,10 @@
             "Outdoor Shower",
             "Deck"
         ],
-        "image": "https://images.unsplash.com/photo-1621290719877-4c7f04087b63?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fFNlYXNpZGUlMjBSZXRyZWF0fGVufDB8fDB8fHww"
+        "image": "https://images.unsplash.com/photo-1534595038511-9f219fe0c979?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDZ8fGFwYXJ0bWVudHxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
+        "id": 14,
         "title": "Modern City Townhouse",
         "description": "Sleek and modern townhouse in a vibrant city neighborhood. Perfect for those who love city living.",
         "price": "$900,000",
@@ -238,6 +252,7 @@
         "image": "https://plus.unsplash.com/premium_photo-1679916743672-ae9e2465088e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TW9kZXJuJTIwQ2l0eSUyMFRvd25ob3VzZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
+        "id": 15,
         "title": "Coastal Cottage",
         "description": "Charming coastal cottage with views of the ocean. Steps away from the beach and coastal trails.",
         "price": "$550,000",
@@ -255,6 +270,7 @@
         "image": "https://plus.unsplash.com/premium_photo-1697729545665-368a046bbbd8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Q29hc3RhbCUyMENvdHRhZ2V8ZW58MHx8MHx8fDA%3D"
     },
     {
+        "id": 16,
         "title": "City Chic Apartment",
         "description": "Stylish apartment in a bustling city neighborhood. Walkable to cafes, shops, and nightlife.",
         "price": "$400,000",
@@ -269,9 +285,10 @@
             "Fitness Center",
             "Pet Friendly"
         ],
-        "image": "https://images.unsplash.com/photo-1605283176568-9b41fde3672e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2l0eSUyMENoaWMlMjBBcGFydG1lbnR8ZW58MHx8MHx8fDA%3D"
+        "image": "https://images.unsplash.com/photo-1630699144641-72fa7a6b8aa1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDh8fGFwYXJ0bWVudHxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
+        "id": 17,
         "title": "Mountain Cabin Retreat",
         "description": "Cozy cabin nestled in the mountains. Perfect for ski weekends and enjoying the great outdoors.",
         "price": "$250,000",
@@ -286,9 +303,10 @@
             "Deck",
             "Ski Storage"
         ],
-        "image": "https://plus.unsplash.com/premium_photo-1694475416476-d7f765fa9ff6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TW91bnRhaW4lMjBDYWJpbiUyMFJldHJlYXR8ZW58MHx8MHx8fDA%3D"
+        "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YXBhcnRtZW50fGVufDB8fDB8fHww"
     },
     {
+        "id": 18,
         "title": "Urban Oasis Loft",
         "description": "Urban loft with a lush private garden oasis. A serene escape in the midst of the city.",
         "price": "$700,000",
@@ -306,20 +324,39 @@
         "image": "https://plus.unsplash.com/premium_photo-1697730133511-31d978a0e8a0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8VXJiYW4lMjBPYXNpcyUyMExvZnR8ZW58MHx8MHx8fDA%3Dg"
     },
     {
-        "title": "Lakeview Home",
-        "description": "Lovely home with stunning views of the lake. Enjoy peaceful evenings watching the sunset.",
-        "price": "$650,000",
-        "bedrooms": 3,
-        "bathrooms": 2,
-        "area": "1,800 sqft",
-        "location": "Lakeview, Serenity Estates",
+        "id": 19,
+        "title": "Riverside Retreat Home",
+        "description": "Peaceful home along a tranquil river. Perfect for nature enthusiasts and outdoor relaxation.",
+        "price": "$900,000",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "area": "2,400 sqft",
+        "location": "Riverside, Willow Creek",
         "latitude": 47.6062,
         "longitude": -122.3321,
         "amenities": [
-            "Lake Views",
-            "Deck",
-            "Boat Dock"
+            "River Access",
+            "Deck with Views",
+            "Gourmet Kitchen"
         ],
-        "image": "https://images.unsplash.com/photo-1551361415-69c87624334f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YXBhcnRtZW50JTIwYnVpbGRpbmd8ZW58MHx8MHx8fDA%3D"
+        "image": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGFwYXJ0bWVudHxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "id": 20,
+        "title": "Country Club Estate",
+        "description": "Elegant estate within a prestigious country club. Golf course views and luxurious amenities.",
+        "price": "$6,500,000",
+        "bedrooms": 6,
+        "bathrooms": 7,
+        "area": "12,000 sqft",
+        "location": "Country Club, Green Hills",
+        "latitude": 34.0522,
+        "longitude": -118.2437,
+        "amenities": [
+            "Golf Course Views",
+            "Tennis Courts",
+            "Wine Cellar"
+        ],
+        "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YXBhcnRtZW50fGVufDB8fDB8fHww"
     }
 ]

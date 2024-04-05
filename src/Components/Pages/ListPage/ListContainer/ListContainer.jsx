@@ -19,7 +19,7 @@ const ListContainer = () => {
 
                 <Filter></Filter>
 
-                <div>
+                <div className="flex flex-col gap-10">
                     {
                         data.map((item, indx) => <Card key={indx} item={item}></Card>)
                     }
